@@ -8,7 +8,7 @@
   <table>
     <tr>
       <th></th>
-      <th>Name & surname</th>
+      <th>Name & Surname</th>
       <th>Title</th>
       <th>Communication</th>
     </tr>
