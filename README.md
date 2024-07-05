@@ -51,7 +51,7 @@ This team is the Unity 106 team created by GOOGLE Oyun ve Uygulama Akademisi for
       </td>
     </tr>
     <tr>
-      <td><img src="images/profile/muhammettalhagüncan.jpeg" width="70" height="70" /></td>
+      <td><img src="images/profile/muhammettalhaguncan.jpeg" width="70" height="70" /></td>
       <td>Muhammet Talha GÜNCAN</td>
       <td>Developer - Designer</td>
       <td>
