@@ -61,3 +61,13 @@
 ## Product features
 
 ## Target group
+
+<details>
+    <summary><h1>Sprint 1</h1></summary>
+</details>
+<details>
+    <summary><h1>Sprint 2</h1></summary>
+</details>
+<details>
+    <summary><h1>Sprint 3</h1></summary>
+</details>
