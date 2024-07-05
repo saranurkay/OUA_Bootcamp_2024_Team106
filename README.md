@@ -1,8 +1,7 @@
 # OUA_Bootcamp_2024_Team106
-# OUA_Bootcamp_2024_Team106
 
 
-# Information About Team and Product
+# Information About Team
 
 ## Team Members
 
