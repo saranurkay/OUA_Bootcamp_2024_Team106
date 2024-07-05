@@ -42,7 +42,7 @@ This team is the Unity 106 team created by GOOGLE Oyun ve Uygulama Akademisi for
       </td>
     </tr>
     <tr>
-      <td><img src="images/profile/rabiayarenbalıkcioglu.jpeg" width="40" height="40" /></td>
+      <td><img src="images/profile/rabiayarenbalıkcioglu.jpeg" width="70" height="70" /></td>
       <td>Rabia Yaren BALIKÇIOĞLU</td>
       <td>Developer - Designer</td>
       <td>
