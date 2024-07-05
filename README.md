@@ -1,7 +1,10 @@
 # OUA_Bootcamp_2024_Team106
+# Product Name
+# Yggateway
 
+# Information About Team and Product
 
-# Information About Team
+This team is the Unity 106 team created by GOOGLE Oyun ve Uygulama Akademisi for the 2023-2024 Bootcamp.
 
 ## Team Members
 
@@ -39,28 +42,37 @@
       </td>
     </tr>
     <tr>
-      <td><img src="#" width="70" height="70" /></td>
+      <td><img src="images/profile/rabiayarenbalıkcioglu.jpeg" width="70" height="70" /></td>
       <td>Rabia Yaren BALIKÇIOĞLU</td>
       <td>Developer - Designer</td>
       <td>
-        <a href="#" target="_blank" ><img src="images/communication/linkedin.png" width="50" height="50" /></a>
+        <a href="https://www.linkedin.com/in/rabiayarenbalıkçıoğlu" target="_blank" ><img src="images/communication/linkedin.png" width="50" height="50" /></a>
+        <a href="https://user-7492982.artstation.com/" target="_blank"><img src="images/communication/artstation.png" width="50" height="50" /></a>
       </td>
     </tr>
     <tr>
-      <td><img src="#" width="70" height="70" /></td>
+      <td><img src="images/profile/muhammettalhagüncan.jpeg" width="70" height="70" /></td>
       <td>Muhammet Talha GÜNCAN</td>
       <td>Developer - Designer</td>
       <td>
-        <a href="#" target="_blank" ><img src="images/communication/linkedin.png" width="50" height="50" /></a>
+        <a href="https://www.linkedin.com/in/muhammet-talha-güncan-748244251/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" ><img src="images/communication/linkedin.png" width="50" height="50" /></a>
       </td>
     </tr>
   </table>
 
-## Product Description
+## Product
+<! Ürün Açıklaması !>
+<! Ürün özellikleri !>
+<! Hedef Kitle !>
+<! Jüriye not (opsiyonel)!>
+<! Sprint içinde tamamlanması tahmin edilen puan
+-Puan tamamlama mantığı
+-Daily Scrum (günlük iletişim halinde olduğunuzu kanıtlayan ss'ler)
+-Sprint Board Screenshotları
+-Ürün Durumu(Ekran Görüntüleri)
+-Sprint Review
+-Sprint Retrospective !>
 
-## Product features
-
-## Target group
 
 <details>
     <summary><h1>Sprint 1</h1></summary>
