@@ -22,4 +22,12 @@
         <a href="https://www.instagram.com/saranurkay/" target="_blank"><img src="images/communication/instagram.png" width="50" height="50" /></a>
       </td>
     </tr>
+    <tr>
+      <td><img src="images/profile/oguzhanyelgen.jpeg" width="70" height="70" /></td>
+      <td>Oğuzhan Yelgen</td>
+      <td>Scrum Master - Developer</td>
+      <td>
+        <a href="https://www.linkedin.com/in/oğuzhan-yelgen-b17ba4104/" target="_blank" ><img src="images/communication/linkedin.png" width="50" height="50" /></a>
+      </td>
+    </tr>
   </table>
