@@ -1,10 +1,6 @@
-# OUA_Bootcamp_2024_Team106
-# Product Name
-# Yggateway
+<!Oyun Logosu Koyulacak!>
 
 # Information About Team and Product
-
-This team is the Unity 106 team created by GOOGLE Oyun ve Uygulama Akademisi for the 2023-2024 Bootcamp.
 
 ## Team Members
 
@@ -42,11 +38,11 @@ This team is the Unity 106 team created by GOOGLE Oyun ve Uygulama Akademisi for
       </td>
     </tr>
     <tr>
-      <td><img src="images/profile/rabiayarenbalıkcioglu.jpeg" width="70" height="70" /></td>
+      <td><img src="images/profile/rabiayarenbalıkcioglu.jpeg" width="40" height="40" /></td>
       <td>Rabia Yaren BALIKÇIOĞLU</td>
       <td>Developer - Designer</td>
       <td>
-        <a href="https://www.linkedin.com/in/rabiayarenbalıkçıoğlu" target="_blank" ><img src="images/communication/linkedin.png" width="40" height="40" /></a>
+        <a href="https://www.linkedin.com/in/rabiayarenbalıkçıoğlu" target="_blank" ><img src="images/communication/linkedin.png" width="50" height="50" /></a>
         <a href="https://user-7492982.artstation.com/" target="_blank"><img src="images/communication/artstation.png" width="40" height="40" /></a>
       </td>
     </tr>
@@ -60,26 +56,17 @@ This team is the Unity 106 team created by GOOGLE Oyun ve Uygulama Akademisi for
     </tr>
   </table>
 
-## Product
-<! Ürün Açıklaması !>
-<! Ürün özellikleri !>
-<! Hedef Kitle !>
-<! Jüriye not (opsiyonel)!>
-<! Sprint içinde tamamlanması tahmin edilen puan
--Puan tamamlama mantığı
--Daily Scrum (günlük iletişim halinde olduğunuzu kanıtlayan ss'ler)
--Sprint Board Screenshotları
--Ürün Durumu(Ekran Görüntüleri)
--Sprint Review
--Sprint Retrospective !>
 
+## Backlog Url 
 
-<details>
-    <summary><h1>Sprint 1</h1></summary>
-</details>
-<details>
-    <summary><h1>Sprint 2</h1></summary>
-</details>
-<details>
-    <summary><h1>Sprint 3</h1></summary>
+## Product Details
+
+### Product Description - Ürün açıklaması
+
+<details open>
+    <summary>General Information</summary>
+    <p><strong>Game Name:</strong> Yggateway</p>
+    <p><strong>Genre:</strong> 3D Action Adventure</p>
+    <p><strong>Platform:</strong> PC</p>
+    <p><strong>Game Development Team:</strong> Unity Team 106, created by Google OUA for the 2023-2024 Bootcamp.</p>
 </details>
