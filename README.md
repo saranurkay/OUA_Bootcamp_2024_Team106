@@ -121,7 +121,7 @@
 </details>
 </details>
 
-# Scriptler
+# Scripts
 <details open>
     <summary><h1>Sprint 1</h1></summary>
     <! Sprint içinde tamamlanması tahmin edilen puan
