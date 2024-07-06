@@ -124,3 +124,25 @@
 </details>
 </details>
 </details>
+
+# Scripts
+<details open>
+    <summary><h1>Sprint 1</h1></summary>
+    <p><strong>Estimated Completion Points:</strong> The points estimated to be completed within the sprint are set at 99.</p>
+    <br>
+    <p><strong>Point Completion Logic:</strong> We based our sprint point estimation on the Fibonacci sequence. This method helped us to more accurately evaluate the complexity and time consumption of the tasks. The Fibonacci sequence assisted us in determining the difficulty level of each task. This point system generally assigns higher points to more complex tasks and lower points to simpler tasks, ensuring that the team progresses with the correct priorities throughout the sprint.</p>
+    <br>
+    <p><strong>Daily Scrum:</strong> Through regular meetings held on Discord and WhatsApp, we effectively maintained team communication. These meetings, scheduled considering the different availabilities of team members, allowed the sharing of daily progress, discussion of encountered problems, and planning of the next steps. In each meeting, we assessed the progress made during the sprint and strengthened our coordination to achieve our goals.</p>
+    <br>
+    <br>
+    <a href="#" target="_blank">Backlog Trello URL</a>
+    <br>
+    <p>WhatsApp & Discord Screenshots<p>
+    <br>
+    <p><strong>Product Status:</strong></p>
+    <br>
+    <p><strong>Sprint Review</strong></p>
+    <p>In this sprint, we laid a solid foundation for the Yggateway game. We completed the backlog points of 99 as planned. We started the 3D design of the first map and determined the name and story of the game. Additionally, we created the basic logo design but plan to update it in future sprints. We strengthened team communication by holding regular meetings on Discord and WhatsApp. Through daily Scrum meetings, we tracked our progress and came together to solve issues. For future sprints, we decided to have the design and development teams progress concurrently. Believing that design will play a critical role in the development of the game, we distributed tasks among the design team. By evaluating our successes and forward plans during this process, we identified improvements and strategies to achieve our goals in the next stages of the game.</p>
+    <p><strong>Sprint Review Participants:</strong> Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN, Oğuzhan YELGEN.</p>
+    <p><strong>Sprint Retrospective</strong></p>
+</details>
