@@ -59,6 +59,7 @@
 
 ## Backlog Url 
 
+
 ## Product Details
 
 ### Product Description
@@ -67,50 +68,47 @@
     <summary><strong>General Information</strong></summary>
     <p><strong>Game Name:</strong> <em>Yggateway</em></p>
     <p><strong>Genre:</strong> <em>3D Action Adventure</em></p>
-    <p><strong>Platform:</strong> <em>PC</em></p>
+    <p><strong>Multiplayer:</strong> <em>Yes</em></p>
+    <p><strong>Platform:</strong> <em>Mobile & PC</em></p>
     <p><strong>Game Development Team:</strong> <em>Unity Team 106, created by Google OUA for the 2023-2024 Bootcamp.</em></p>
 </details>
-
 <details open>
     <summary><strong>Gameplay<strong></summary>
-    <p><strong>Basic Gameplay:</strong> <em>Oyunun temel mekaniklerini ve döngülerini (Bulmaca çözme, dövüş ..vb.)</em></p>
-    <p><strong>Eşzamanlılık:</strong> <em>Eş zamanlı oyun mekaniğini ve nasıl işlediğini detaylı.</em></p>
-     <p><strong>Haritalar<strong>
-    <strong>Asgard: </strong><em>Tanrıların ikamet ettiği dünya.</em>
-    <strong>Midgard: </strong><em>İnsanların yaşadığı dünya.</em>
-    <strong> Alfheim: </strong><em>Işık elflerinin diyarı.</em>
-    <strong>Svartalfheim: </strong><em>Karanlık elflerinin diyarı.</em>
-    <strong>Jotunheim: </strong><em>Devlerin diyarı.</em>
-    <strong>Muspelheim: </strong><em>Ateş diyarı.</em>
-    <strong>Niflheim:</strong><em>Buz diyarı.</em>
-    <strong>Helheim: </strong><em>Ölülerin diyarı.</em>
-    <strong>Vanaheim: </strong><em>Vanir tanrılarının diyarı.</em>
-    </p>
-    <p><strong>Görevler:</strong> <em>Görevlerin türlerini ve zorluk seviyelerini açıkla</em></p>
-    <p><strong>Zaman Sınırı:</strong> <em>20 dakikalık zaman sınırının oyunun nasıl bir etki yarattığını ve heyecanı nasıl artırdığını açıkla</em></p>
+    <p><strong>Basic Gameplay</strong><p>
+    <p><strong>Haritalar<strong></p>
+    <p>Oyuncular, Yggdrasil ağacının üç ana kökünden dokuz farklı mekana açılan portallar aracılığıyla çeşitli haritalarda görevler tamamlarlar. Her harita, benzersiz temalara ve zorluklara sahiptir.</p>
+    <p><strong>Asgard: </strong><em>Tanrıların ikamet ettiği dünya.</em></p>
+    <p><strong>Midgard: </strong><em>İnsanların yaşadığı dünya.</em></p>
+    <p><strong>Alfheim: </strong><em>Işık elflerinin diyarı.</em></p>
+    <p><strong>Svartalfheim: </strong><em>Karanlık elflerinin diyarı.</em></p>
+    <p><strong>Jotunheim: </strong><em>Devlerin diyarı.</em></p>
+    <p><strong>Muspelheim: </strong><em>Ateş diyarı.</em></p>
+    <p><strong>Niflheim:</strong><em>Buz diyarı.</em></p>
+    <p><strong>Helheim: </strong><em>Ölülerin diyarı.</em></p>
+    <p><strong>Vanaheim: </strong><em>Vanir tanrılarının diyarı.</em></p>
+    <p><strong>Görevler</strong></p>
+    <p><strong>Bulmaca Çözme: </strong><em>Oyuncular, oyun içerisinde çeşitli bulmacaları çözmek zorundadırlar. Bu bulmacalar, her haritanın temasına uygun şekilde farklı zorluklarda tasarlanmıştır.</em></p>
+    <p><strong>Malzeme Toplama:</strong><em>Oyuncular, her haritanın temasına uygun belirli malzemeleri toplamak zorundadır. Malzemeleri toplama görevlerinin amacı ve detayları haritaya göre değişiklik gösterir.</em></p>
+    <p><strong>Savaş: </strong><em>Belirli haritalardaki bazı görevler düşmanlarla savaşmayı ve onları yenmeyi gerektirir. Oyuncular, bu savaşlarda yeteneklerini ve stratejilerini kullanarak düşmanları alt etmek zorundadır.</em></p>
+    <p><strong>Zaman Sınırı</strong></p>
+    <p><em>Oyunun tamamı 20 dakikalık bir süre içermektedir. Oyuncular, tüm görevleri bu süre içerisinde tamamlamak zorundadırlar.</em></p>
 </details>
-
 <details open>
     <details open><summary><strong>Hikaye<strong></summary>
     <p><em>Yakın bir gelecekte, dünya yok olmanın eşiğine gelmiştir. İklim değişiklikleri, doğal afetler ve insanlık tarafından yapılan yıkımlar, gezegenimizi kurtarılamaz bir duruma getirmiştir. Ancak bir umut vardır. İnsanlık, tarih öncesi zamanlardan ileri teknoloji dünyalarına kadar uzanan esrarengiz Yggdrasil’in gizemini keşfetmiştir. Yggdrasil, tüm evreni birbirine bağlayan devasa bir dünya ağacıdır. Bu ağacın üç ana kökü, dokuz dünyanın her birine uzanır. Her kök, kendi benzersiz dünyasına açılan kapılarla doludur. Yggdrasil ağacının gizemli portalları ile dünyanın dört bir yanında zamanın ve mekanın sınırlarını zorlayarak tehlikeler ve gizemlerle dolu görevleri tamamlamak gezegenimizi kurtarabilecek cesur karakterlerin yolculuğunu mümkün kılmaktadır.<em></p></details>
     <details open><summary><strong>Amaç<strong></summary>
     <p><em>Oyunun amacı, Yggdrasil’in dokuz farklı mekanında bulunan görevleri tamamlayarak dünyayı yok olmaktan kurtarmaktır. Oyuncular, her bir haritada bulunan tehlikelerle dolu görevleri çözmek ve portal geçişleriyle farklı mekanlara geçiş yaparak zamanın ve mekanın sınırlarını aşmak zorundadırlar. Görevlerin tamamlanmasındaki temel hedef, 20 dakika içerisinde tüm görevleri bitirerek dünyayı kurtarmaktır. Bu zorlu yolculukta oyuncular, cesaretlerini, zekalarını ve becerilerini kullanarak insanlığın son umudu olacaklardır.</em></p></details>
 </details>
-
 <details>
     <summary><strong>Teknik Özellikler<strong></summary>
-    <p><strong>Grafikler:</strong> <em>Oyunun grafik motorunu ve görsel stilini açıklayın.</em></p>
-    <p><strong>Ses:</strong> <em>Müzik ve ses efektlerinin kalitesini ve atmosfere katkısını detaylandırın.</em></p>
-    <p><strong>Çok Oyunculu:</strong> <em>Oyunun çok oyunculu modunu ve nasıl işlediğini açıklayın.</em></p>
-    <p><strong>Sistem Gereksinimleri:</strong> <em>Oyunu çalıştırmak için gereken minimum ve önerilen sistem gereksinimlerini listeleyin.</em></p>
+    <p>Unity oyun motoru kullanılarak C# programlama dilinde geliştirilmektedir.</p>
 </details>
-
 <details>
-    <summary><strong>Hedef Kitle<strong></summary>
-    <p><strong>Yaş Grubu:</strong> <em>Oyunun hangi yaş grubuna hitap ettiğini açıkla.</em></p>
-    <p><strong>Oynanış Tercihleri:</strong> <em>Oyunun kimlere hitap edeceğini ve hangi tür oyunculardan hoşlanacağını açıkla.</em></p>
+    <summary><strong>Hedef Kitle</strong></summary>
+    <p><strong>Yaş Grubu:</strong> <em>+7</em></p>
+    <p><strong>İlgi Alanları:</strong> <em>Eylem-macera oyunları, mitoloji ve çok oyunculu deneyimlere ilgi duyan oyuncular.</em></p>
+    <p><strong>Oynanış Tercihleri:</strong> <em>Mobil ve PC oyunları ile farklı ortamları keşfetmeyi, bulmaca çözmeyi, kaynak toplamayı ve savaşa katılmayı seven oyuncular için uygundur.</em></p>
 </details>
-
 <details>
     <summary><strong>Jüriye Not (Opsiyonel)<strong></summary>
     <p><em>xxxxxxxxxxxxxxxxxxxxxxxxx</em></p>
