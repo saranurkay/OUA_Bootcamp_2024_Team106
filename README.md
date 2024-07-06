@@ -102,12 +102,12 @@
     <p><em>Oyunun amacı, Yggdrasil’in dokuz farklı mekanında bulunan görevleri tamamlayarak dünyayı yok olmaktan kurtarmaktır. Oyuncular, her bir haritada bulunan tehlikelerle dolu görevleri çözmek ve portal geçişleriyle farklı mekanlara geçiş yaparak zamanın ve mekanın sınırlarını aşmak zorundadırlar. Görevlerin tamamlanmasındaki temel hedef, 20 dakika içerisinde tüm görevleri bitirerek dünyayı kurtarmaktır. Bu zorlu yolculukta oyuncular, cesaretlerini, zekalarını ve becerilerini kullanarak insanlığın son umudu olacaklardır.</em></p></details>
 </details>
 
-<details>
+<details open>
     <summary><strong><h2>Teknik Özellikler<h2><strong></summary>
     <p>Unity oyun motoru kullanılarak C# programlama dilinde geliştirilmektedir.</p>
 </details>
 
-<details>
+<details open>
     <summary><strong><h2>Hedef Kitle<h2></strong></summary>
     <p><strong>Yaş Grubu:</strong> <em>+7</em></p>
     <p><strong>İlgi Alanları:</strong> <em>Eylem-macera oyunları, mitoloji ve çok oyunculu deneyimlere ilgi duyan oyuncular.</em></p>
@@ -115,14 +115,14 @@
 </details>
 
 
-<details>
+<details open>
     <summary><strong><h2>Jüriye Not (Opsiyonel)<h2><strong></summary>
     <p><em>xxxxxxxxxxxxxxxxxxxxxxxxx</em></p>
 </details>
 
 
 # Scriptler
-<details>
+<details open>
     <summary><h1>Sprint 1</h1></summary>
     <! Sprint içinde tamamlanması tahmin edilen puan
         -Puan tamamlama mantığı
@@ -133,9 +133,9 @@
         -Sprint Retrospective !>
 
 </details>
-<details>
+<details open>
     <summary><h1>Sprint 2</h1></summary>
 </details>
-<details>
+<details open>
     <summary><h1>Sprint 3</h1></summary>
 </details>
