@@ -119,7 +119,6 @@
     <details open>
         <summary>Note to Jury</summary>
         <p><em>Dear Jury Members,</em></p>
-        <br>
         <p><em>Our game Yggateway, developed by Unity Team 106, aims to blend legendary mythology with modern science fiction to provide gamers with a unique experience. Players             journey through nine different realms of the Yggdrasil tree via portals, each realm presenting different themes and challenges such as puzzle-solving and resource gathering.</em></p>
         <p><em>Set in a near future where the world is on the brink of destruction, our game's concept aims to highlight the Sustainable Development Goals planned to be achieved by 2030. Through tasks that blend mythology and modernity, the game also aims to raise awareness about the Sustainable Development Goals. The time limit we have set to complete tasks within the game reflects the urgency in our real-world mission to tackle these goals with the limited time we have.</em></p>
 </details>
