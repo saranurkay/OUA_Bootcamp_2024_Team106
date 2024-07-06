@@ -120,3 +120,21 @@
     </details>
 </details>
 </details>
+
+# Scriptler
+<details open>
+    <summary><h1>Sprint 1</h1></summary>
+    <! Sprint içinde tamamlanması tahmin edilen puan
+        -Puan tamamlama mantığı
+        -Daily Scrum (günlük iletişim halinde olduğunuzu kanıtlayan ss'ler)
+        -Sprint Board Screenshotları
+        -Ürün Durumu(Ekran Görüntüleri)
+        -Sprint Review
+        -Sprint Retrospective !>
+</details>
+<details open>
+    <summary><h1>Sprint 2</h1></summary>
+</details>
+<details open>
+    <summary><h1>Sprint 3</h1></summary>
+</details>
