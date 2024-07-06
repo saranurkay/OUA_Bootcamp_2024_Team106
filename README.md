@@ -79,7 +79,7 @@
             
 <details open>
                 <summary><strong>Basic Gameplay</strong></summary>
-                <p>Players complete tasks on various maps through portals that lead to nine different realms from the three main roots of the Yggdrasil tree. Each map has unique themes and challenges.</p>
+                <p><em>Players complete tasks on various maps through portals that lead to nine different realms from the three main roots of the Yggdrasil tree. Each map has unique themes and challenges.</em></p>
 </details>
             
 <details open>
@@ -114,7 +114,7 @@
 </details>
     <details open>
         <summary>Technical Specifications</summary>
-        <p>The game is being developed using the Unity game engine with the C# programming language.</p>
+        <p><em>The game is being developed using the Unity game engine with the C# programming language.</em></p>
     </details>
     <details open>
         <summary>Note to Jury</summary>
@@ -129,43 +129,55 @@
 # Sprints
 <details open>
     <summary><h2>Sprint 1</h2></summary>
-    <p><strong>Estimated Completion Points:</strong> The points estimated to be completed within the sprint are set at 99.</p>
+    <p><strong>Estimated Completion Points:</strong> <em>The points estimated to be completed within the sprint are set at 99.</em></p>
     <br>
-    <p><strong>Point Completion Logic:</strong> We based our sprint point estimation on the Fibonacci sequence. This method helped us to more accurately evaluate the complexity and time consumption of the tasks. The Fibonacci sequence assisted us in determining the difficulty level of each task. This point system generally assigns higher points to more complex tasks and lower points to simpler tasks, ensuring that the team progresses with the correct priorities throughout the sprint.</p>
+    <p><strong>Point Completion Logic:</strong> <em>We based our sprint point estimation on the Fibonacci sequence. This method helped us to more accurately evaluate the complexity and time consumption of the tasks. The Fibonacci sequence assisted us in determining the difficulty level of each task. This point system generally assigns higher points to more complex tasks and lower points to simpler tasks, ensuring that the team progresses with the correct priorities throughout the sprint.</em></p>
     <br>
-    <p><strong>Daily Scrum:</strong> Through regular meetings held on Discord and WhatsApp, we effectively maintained team communication. These meetings, scheduled considering the different availabilities of team members, allowed the sharing of daily progress, discussion of encountered problems, and planning of the next steps. In each meeting, we assessed the progress made during the sprint and strengthened our coordination to achieve our goals.</p>
+    <p><strong>Daily Scrum:</strong> <em>Through regular meetings held on Discord and WhatsApp, we effectively maintained team communication. These meetings, scheduled considering the different availabilities of team members, allowed the sharing of daily progress, discussion of encountered problems, and planning of the next steps. In each meeting, we assessed the progress made during the sprint and strengthened our coordination to achieve our goals.</em></p>
     <br>
     <br>
     <a href="#" target="_blank">Backlog Trello URL</a>
     <br>
     <br>
     <p>WhatsApp & Discord Screenshots<p>
+    <! wp ve dc ekran görüntüleri gelecek. !>
     <br>
     <p><strong>Product Status:</strong></p>
-    <br>
+    <!Ürün durumu ekran görüntüleri gelecek>
+    <br> 
     <p><strong>Sprint Review:</strong></p>
-    <p>In this sprint, we laid a solid foundation for the Yggateway game. We completed the backlog points of 99 as planned. We started the 3D design of the first map and determined the name and story of the game. Additionally, we created the basic logo design but plan to update it in future sprints. We strengthened team communication by holding regular meetings on Discord and WhatsApp. Through daily Scrum meetings, we tracked our progress and came together to solve issues. For future sprints, we decided to have the design and development teams progress concurrently. Believing that design will play a critical role in the development of the game, we distributed tasks among the design team. By evaluating our successes and forward plans during this process, we identified improvements and strategies to achieve our goals in the next stages of the game.</p>
-    <p><strong>Sprint Review Participants:</strong> Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN, Oğuzhan YELGEN.</p>
+    <p><em>In this sprint, we laid a solid foundation for the Yggateway game. We completed the backlog points of 99 as planned. We started the 3D design of the first map and determined the name and story of the game. Additionally, we created the basic logo design but plan to update it in future sprints. We strengthened team communication by holding regular meetings on Discord and WhatsApp. Through daily Scrum meetings, we tracked our progress and came together to solve issues. For future sprints, we decided to have the design and development teams progress concurrently. Believing that design will play a critical role in the development of the game, we distributed tasks among the design team. By evaluating our successes and forward plans during this process, we identified improvements and strategies to achieve our goals in the next stages of the game.</em></p>
+    <p><strong>Sprint Review Participants:</strong> <em>Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN, Oğuzhan YELGEN.</em></p>
     <p><strong>Sprint Retrospective:</strong></p>
     <p>What Went Well?</p>
-    <p>
+    <p><em>
     - We finalized the core design of the game and started the detailed design of the first map.
+    </em></p>
+    <p><em>
     - We made clear decisions on the name and story of the game.
+    </em></p>
+    <p><em>
     - We conducted daily Scrum meetings via WhatsApp.
-    </p>
+    </em></p>
     <p>What Can Be Improved?</p>
-    <p>
+    <p><em>
     - We need to iterate more on the logo design to achieve a better result.
+    </em></p>
+    <p><em>
     - We need to find more effective solutions to overcome obstacles encountered during the coding process.
-    </p>
+    </em></p>
     <p>Suggestions and Improvement Paths</p>
-    <p>
+    <p><em>
     - We plan to allocate more time for logo design in future sprints.
+    </em></p>
+    <p><em>
     - In future sprints, we should set clearer and more measurable goals for map design and coding. Starting from the second sprint, the design and development teams will work concurrently.
-    </p>
+    </em></p>
     <p>Action Plan</p>
-    <p>
+    <p><em>
     - By revising the resources and timing required for the first map design, we aim to start it in the second sprint.
+    </em></p>
+    <p><em>
     - We will establish a more rigorous planning process between the design team and the development team to accelerate the coding process.
-    </p>
+    </em></p>
 </details>
