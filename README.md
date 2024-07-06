@@ -125,7 +125,7 @@
 </details>
 </details>
 
-# Scripts
+# Sprints
 <details open>
     <summary><h1>Sprint 1</h1></summary>
     <p><strong>Estimated Completion Points:</strong> The points estimated to be completed within the sprint are set at 99.</p>
