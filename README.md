@@ -56,8 +56,6 @@
     </tr>
   </table>
 
-## Backlog Url 
-
 ## Product Details
 
 <details open>
@@ -70,7 +68,9 @@
             <p><strong>Multiplayer:</strong> <em>Yes</em></p>
             <p><strong>Platform:</strong> <em>Mobile & PC</em></p>
             <p><strong>Game Development Team:</strong> <em>Unity Team 106, created by Google OUA for the 2023-2024 Bootcamp.</em></p>
+            <br>
             <p><strong>Story:</strong> <em>In the near future, the world is on the brink of destruction. Climate changes, natural disasters, and man-made devastations have       brought our planet to an irreparable state. However, there is hope. Humanity has discovered the mystery of the enigmatic Yggdrasil, which spans from prehistoric times to advanced technological worlds. Yggdrasil is a massive world tree that connects the entire universe. This tree's three main roots are filled with doors leading to their unique worlds. By using the mysterious portals of the Yggdrasil tree, courageous characters can embark on journeys full of dangers and mysteries, breaking the boundaries of time and space to complete tasks that could save our planet.</em></p>
+            <br>
             <p><strong>Objective:</strong> <em>The aim of the game is to save the world from destruction by completing tasks located in nine different realms of Yggdrasil. Players must solve perilous tasks in each map and traverse different realms through portals, breaking the boundaries of time and space. The primary goal is to complete all tasks within 20 minutes to save the world. In this challenging journey, players will use their courage, intelligence, and skills to become humanity's last hope.</em></p>
 </details>
     
@@ -101,7 +101,9 @@
                 <summary><strong>Tasks</strong></summary>
                 <ul>
                     <li><strong>Puzzle Solving:</strong> <em>Players must solve various puzzles within the game. These puzzles are designed with varying difficulties according to the theme of each map.</em></li>
+                    <br>
                     <li><strong>Gathering Materials:</strong> <em>Players must collect certain materials appropriate to the theme of each map. The purpose and details of these gathering tasks vary according to the map.</em></li>
+                    <br>
                     <li><strong>Combat:</strong> <em>Some tasks on specific maps require fighting enemies and defeating them. Players must use their skills and strategies in these battles to overcome the enemies.</em></li>
                 </ul>
 </details>
@@ -114,29 +116,13 @@
         <summary>Technical Specifications</summary>
         <p>The game is being developed using the Unity game engine with the C# programming language.</p>
     </details>
-</details>
-</details>
-
-# Scripts
-<details open>
-    <summary><h1>Sprint 1</h1></summary>
-    <! Sprint içinde tamamlanması tahmin edilen puan
-        -Puan tamamlama mantığı
-        -Daily Scrum (günlük iletişim halinde olduğunuzu kanıtlayan ss'ler)
-        -Sprint Board Screenshotları
-        -Ürün Durumu(Ekran Görüntüleri)
-        -Sprint Review
-        -Sprint Retrospective !>
-</details>
-<details open>
+    <details open>
         <summary>Note to Jury</summary>
         <p><em>Dear Jury Members,</em></p>
+        <br>
         <p><em>Our game Yggateway, developed by Unity Team 106, aims to blend legendary mythology with modern science fiction to provide gamers with a unique experience. Players journey through nine different realms of the Yggdrasil tree via portals, each realm presenting different themes and challenges such as puzzle-solving and resource gathering.</em></p>
+        <br>
         <p><em>Set in a near future where the world is on the brink of destruction, our game's concept aims to highlight the Sustainable Development Goals planned to be achieved by 2030. Through tasks that blend mythology and modernity, the game also aims to raise awareness about the Sustainable Development Goals. The time limit we have set to complete tasks within the game reflects the urgency in our real-world mission to tackle these goals with the limited time we have.</em></p>
 </details>
-<details open>
-    <summary><h1>Sprint 2</h1></summary>
 </details>
-<details open>
-    <summary><h1>Sprint 3</h1></summary>
 </details>
