@@ -136,13 +136,13 @@
     <p><strong>Daily Scrum:</strong> <em>Through regular meetings held on Discord and WhatsApp, we effectively maintained team communication. These meetings, scheduled considering the different availabilities of team members, allowed the sharing of daily progress, discussion of encountered problems, and planning of the next steps. In each meeting, we assessed the progress made during the sprint and strengthened our coordination to achieve our goals.</em></p>
     <br>
     <br>
-    <p><a href="https://trello.com/b/cOckJ1er/bootcamp-u106-1st-sprint" target="_blank">Backlog Trello URL</a>
-    <br></p>
+    <p><a href="https://trello.com/b/cOckJ1er/bootcamp-u106-1st-sprint" target="_blank">Backlog Trello URL</a></p>
+    <br>
     <img src="images/sprint1/trello1.png" alt="Trello Screenshots 1" style="height: 600px; width: auto; ">
     <br>
     <img src="images/sprint1/trello2.png" alt="Trello Screenshots 2" style="height: 600px; width: auto; ">
     <br>
-    <p><strong>WhatsApp & Discord Screenshots</strong><p>
+    <p><strong>WhatsApp & Discord Screenshots</strong></p>
     <img src="images/sprint1/wp1.jpeg" alt="WhatsApp Screenshots 1" style="height: 600px; width: auto; ">
     <br>
     <img src="images/sprint1/wp2.jpeg" alt="WhatsApp Screenshots 2" style="height: 600px; width: auto; ">
