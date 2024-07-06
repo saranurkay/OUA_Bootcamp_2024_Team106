@@ -65,90 +65,71 @@
 ### Product Description
 
 <details open>
-    <summary><h2>Genel Bilgiler</h2>
+    <summary><h2>Genel Bilgiler</h2></summary>
     <p><strong>Oyun Adı:</strong> <em>Yggateway</em></p>
     <p><strong>Tür:</strong> <em>3D Aksiyon Macera</em></p>
     <p><strong>Çok Oyunculu:</strong> <em>Evet</em></p>
     <p><strong>Platform:</strong> <em>Mobile & PC</em></p>
     <p><strong>Oyun Geliştirme Takımı:</strong> <em>Unity Team 106, Google OUA tarafından 2023-2024 Bootcamp için oluşturuldu.</em></p>
-    </summary>
-    
 </details>
 
 <details open>
-    <summary><h2>Oynanış</h2>
-    <p><strong>Temel Oynanış</strong></p>
-    <p><strong>Haritalar</strong></p>
-    <p>Oyuncular, Yggdrasil ağacının üç ana kökünden dokuz farklı mekana açılan portallar aracılığıyla çeşitli haritalarda görevler tamamlarlar. Her harita, benzersiz temalara ve zorluklara sahiptir.</p>
-    <ul>
-        <li><strong>Asgard:</strong> <em>Tanrıların ikamet ettiği dünya.</em></li>
-        <li><strong>Midgard:</strong> <em>İnsanların yaşadığı dünya.</em></li>
-        <li><strong>Alfheim:</strong> <em>Işık elflerinin diyarı.</em></li>
-        <li><strong>Svartalfheim:</strong> <em>Karanlık elflerinin diyarı.</em></li>
-        <li><strong>Jotunheim:</strong> <em>Devlerin diyarı.</em></li>
-        <li><strong>Muspelheim:</strong> <em>Ateş diyarı.</em></li>
-        <li><strong>Niflheim:</strong> <em>Buz diyarı.</em></li>
-        <li><strong>Helheim:</strong> <em>Ölülerin diyarı.</em></li>
-        <li><strong>Vanaheim:</strong> <em>Vanir tanrılarının diyarı.</em></li>
-    </ul>
-    <p><strong>Görevler</strong></p>
-    <ul>
-        <li><strong>Bulmaca Çözme:</strong> <em>Oyuncular, oyun içerisinde çeşitli bulmacaları çözmek zorundadırlar. Bu bulmacalar, her haritanın temasına uygun şekilde farklı zorluklarda tasarlanmıştır.</em></li>
-        <li><strong>Malzeme Toplama:</strong> <em>Oyuncular, her haritanın temasına uygun belirli malzemeleri toplamak zorundadır. Malzemeleri toplama görevlerinin amacı ve detayları haritaya göre değişiklik gösterir.</em></li>
-        <li><strong>Savaş:</strong> <em>Belirli haritalardaki bazı görevler düşmanlarla savaşmayı ve onları yenmeyi gerektirir. Oyuncular, bu savaşlarda yeteneklerini ve stratejilerini kullanarak düşmanları alt etmek zorundadır.</em></li>
-    </ul>
-    <p><strong>Zaman Sınırı</strong></p>
-    <p><em>Oyunun tamamı 20 dakikalık bir süre içermektedir. Oyuncular, tüm görevleri bu süre içerisinde tamamlamak zorundadırlar.</em></p>
-    </summary>
+    <summary><h2>Oynanış</h2></summary>
+    <details open>
+        <summary><strong>Temel Oynanış</strong></summary>
+        <p>Oyuncular, Yggdrasil ağacının üç ana kökünden dokuz farklı mekana açılan portallar aracılığıyla çeşitli haritalarda görevler tamamlarlar. Her harita, benzersiz temalara ve zorluklara sahiptir.</p>
+    </details>
+    <details open>
+        <summary><strong>Haritalar</strong></summary>
+        <ul>
+            <li><strong>Asgard:</strong> <em>Tanrıların ikamet ettiği dünya.</em></li>
+            <li><strong>Midgard:</strong> <em>İnsanların yaşadığı dünya.</em></li>
+            <li><strong>Alfheim:</strong> <em>Işık elflerinin diyarı.</em></li>
+            <li><strong>Svartalfheim:</strong> <em>Karanlık elflerinin diyarı.</em></li>
+            <li><strong>Jotunheim:</strong> <em>Devlerin diyarı.</em></li>
+            <li><strong>Muspelheim:</strong> <em>Ateş diyarı.</em></li>
+            <li><strong>Niflheim:</strong> <em>Buz diyarı.</em></li>
+            <li><strong>Helheim:</strong> <em>Ölülerin diyarı.</em></li>
+            <li><strong>Vanaheim:</strong> <em>Vanir tanrılarının diyarı.</em></li>
+        </ul>
+    </details>
+    <details open>
+        <summary><strong>Görevler</strong></summary>
+        <ul>
+            <li><strong>Bulmaca Çözme:</strong> <em>Oyuncular, oyun içerisinde çeşitli bulmacaları çözmek zorundadırlar. Bu bulmacalar, her haritanın temasına uygun şekilde farklı zorluklarda tasarlanmıştır.</em></li>
+            <li><strong>Malzeme Toplama:</strong> <em>Oyuncular, her haritanın temasına uygun belirli malzemeleri toplamak zorundadır. Malzemeleri toplama görevlerinin amacı ve detayları haritaya göre değişiklik gösterir.</em></li>
+            <li><strong>Savaş:</strong> <em>Belirli haritalardaki bazı görevler düşmanlarla savaşmayı ve onları yenmeyi gerektirir. Oyuncular, bu savaşlarda yeteneklerini ve stratejilerini kullanarak düşmanları alt etmek zorundadır.</em></li>
+        </ul>
+    </details>
+    <details open>
+        <summary><strong>Zaman Sınırı</strong></summary>
+        <p><em>Oyunun tamamı 20 dakikalık bir süre içermektedir. Oyuncular, tüm görevleri bu süre içerisinde tamamlamak zorundadırlar.</em></p>
+    </details>
 </details>
 
 <details open>
-    <summary><h2>Hikaye</h2>
+    <summary><h2>Hikaye</h2></summary>
     <p><em>Yakın bir gelecekte, dünya yok olmanın eşiğine gelmiştir. İklim değişiklikleri, doğal afetler ve insanlık tarafından yapılan yıkımlar, gezegenimizi kurtarılamaz bir duruma getirmiştir. Ancak bir umut vardır. İnsanlık, tarih öncesi zamanlardan ileri teknoloji dünyalarına kadar uzanan esrarengiz Yggdrasil’in gizemini keşfetmiştir. Yggdrasil, tüm evreni birbirine bağlayan devasa bir dünya ağacıdır. Bu ağacın üç ana kökü, kendi benzersiz dünyasına açılan kapılarla doludur. Yggdrasil ağacının gizemli portalları ile dünyanın dört bir yanında zamanın ve mekanın sınırlarını zorlayarak tehlikeler ve gizemlerle dolu görevleri tamamlamak gezegenimizi kurtarabilecek cesur karakterlerin yolculuğunu mümkün kılmaktadır.</em></p>
-    </summary>
 </details>
 
 <details open>
-    <summary><h2>Amaç</h2>
+    <summary><h2>Amaç</h2></summary>
     <p><em>Oyunun amacı, Yggdrasil’in dokuz farklı mekanında bulunan görevleri tamamlayarak dünyayı yok olmaktan kurtarmaktır. Oyuncular, her bir haritada bulunan tehlikelerle dolu görevleri çözmek ve portal geçişleriyle farklı mekanlara geçiş yaparak zamanın ve mekanın sınırlarını aşmak zorundadırlar. Görevlerin tamamlanmasındaki temel hedef, 20 dakika içerisinde tüm görevleri bitirerek dünyayı kurtarmaktır. Bu zorlu yolculukta oyuncular, cesaretlerini, zekalarını ve becerilerini kullanarak insanlığın son umudu olacaklardır.</em></p>
-    </summary>
 </details>
 
 <details open>
-    <summary><h2>Teknik Özellikler</h2>
+    <summary><h2>Teknik Özellikler</h2></summary>
     <p>Unity oyun motoru kullanılarak C# programlama diliyle geliştirilmektedir.</p>
-    </summary>
 </details>
 
 <details open>
-    <summary><h2>Hedef Kitle</h2>
+    <summary><h2>Hedef Kitle</h2></summary>
     <p><strong>Yaş Grubu:</strong> <em>+7</em></p>
     <p><strong>İlgi Alanları:</strong> <em>Eylem-macera oyunları, mitoloji ve çok oyunculu deneyimlere ilgi duyan oyuncular.</em></p>
     <p><strong>Oynanış Tercihleri:</strong> <em>Mobil ve PC oyunları ile farklı ortamları keşfetmeyi, bulmaca çözmeyi, kaynak toplamayı ve savaşa katılmayı seven oyuncular için uygundur.</em></p>
-    </summary>
 </details>
 
 <details open>
-    <summary><h2>Jüriye Not (Opsiyonel)</h2>
-    <p><em>Buraya jüriye iletmek istediğiniz notları ekleyebilirsiniz.</em></p>
-    </summary>
-</details>
-
-# Scriptler
-<details open>
-    <summary><h1>Sprint 1</h1>
-    <! Sprint içinde tamamlanması tahmin edilen puan
-        -Puan tamamlama mantığı
-        -Daily Scrum (günlük iletişim halinde olduğunuzu kanıtlayan ss'ler)
-        -Sprint Board Screenshotları
-        -Ürün Durumu(Ekran Görüntüleri)
-        -Sprint Review
-        -Sprint Retrospective !>
-      </summary>
-</details>
-<details open>
-    <summary><h1>Sprint 2</h1></summary>
-</details>
-<details open>
-    <summary><h1>Sprint 3</h1></summary>
+    <summary><h2>Jüriye Not (Opsiyonel)</h2></summary>
+    <p><em>Buraya jüriye iletmek istediğiniz notları ekle</em></p>
 </details>
