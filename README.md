@@ -140,9 +140,9 @@
     <br>
     <br>
     <p><strong>WhatsApp & Discord Screenshots</strong><p>
-    <img src="images/sprint1/wp1.jpeg" width="100px" height="100px"/></a>
+    <img src="images/sprint1/wp1.jpeg" alt="WhatsApp Screenshots 1" style="max-width: 100%; height: auto;">
     <br>
-    <img src="images/sprint1/wp2.jpeg" width="100px" height="100px"/></a>
+    <img src="images/sprint1/wp2.jpeg" alt="WhatsApp Screenshots 2" style="max-width: 100%; height: auto;">
     <! wp ve dc ekran görüntüleri gelecek. !>
     <br>
     <p><strong>Product Status:</strong></p>
