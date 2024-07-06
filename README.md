@@ -139,7 +139,7 @@
     <a href="#" target="_blank">Backlog Trello URL</a>
     <br>
     <br>
-    <p>WhatsApp & Discord Screenshots<p>
+    <p><strong>WhatsApp & Discord Screenshots</strong><p>
     <! wp ve dc ekran görüntüleri gelecek. !>
     <br>
     <p><strong>Product Status:</strong></p>
@@ -149,7 +149,8 @@
     <p><em>In this sprint, we laid a solid foundation for the Yggateway game. We completed the backlog points of 99 as planned. We started the 3D design of the first map and determined the name and story of the game. Additionally, we created the basic logo design but plan to update it in future sprints. We strengthened team communication by holding regular meetings on Discord and WhatsApp. Through daily Scrum meetings, we tracked our progress and came together to solve issues. For future sprints, we decided to have the design and development teams progress concurrently. Believing that design will play a critical role in the development of the game, we distributed tasks among the design team. By evaluating our successes and forward plans during this process, we identified improvements and strategies to achieve our goals in the next stages of the game.</em></p>
     <p><strong>Sprint Review Participants:</strong> <em>Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN, Oğuzhan YELGEN.</em></p>
     <p><strong>Sprint Retrospective:</strong></p>
-    <p>What Went Well?</p>
+    <ul>
+    <li><p>What Went Well?</p></li>
     <p><em>
     - We finalized the core design of the game and started the detailed design of the first map.
     </em></p>
@@ -159,25 +160,26 @@
     <p><em>
     - We conducted daily Scrum meetings via WhatsApp.
     </em></p>
-    <p>What Can Be Improved?</p>
+    <li><p>What Can Be Improved?</p></li>
     <p><em>
     - We need to iterate more on the logo design to achieve a better result.
     </em></p>
     <p><em>
     - We need to find more effective solutions to overcome obstacles encountered during the coding process.
     </em></p>
-    <p>Suggestions and Improvement Paths</p>
+    <li><p>Suggestions and Improvement Paths</p></li>
     <p><em>
     - We plan to allocate more time for logo design in future sprints.
     </em></p>
     <p><em>
     - In future sprints, we should set clearer and more measurable goals for map design and coding. Starting from the second sprint, the design and development teams will work concurrently.
     </em></p>
-    <p>Action Plan</p>
+    <li><p>Action Plan</p></li>
     <p><em>
     - By revising the resources and timing required for the first map design, we aim to start it in the second sprint.
     </em></p>
     <p><em>
     - We will establish a more rigorous planning process between the design team and the development team to accelerate the coding process.
     </em></p>
+    </ul>
 </details>
