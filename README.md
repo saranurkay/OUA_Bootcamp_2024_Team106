@@ -64,7 +64,7 @@
 <summary><h2>Product Description</h2></summary>
         
 <details open>
-            <summary>General Information</summary>
+            <summary><h3>General Information</h3></summary>
             <p><strong>Game Name:</strong> <em>Yggateway</em></p>
             <p><strong>Genre:</strong> <em>3D Action Adventure</em></p>
             <p><strong>Multiplayer:</strong> <em>Yes</em></p>
@@ -73,15 +73,15 @@
 </details>
     
 <details open>
-            <summary>Gameplay</summary>
+            <summary><h3>Gameplay</h3></summary>
             
 <details open>
-                <summary><strong>Basic Gameplay</strong></summary>
+                <summary><strong><h4>Basic Gameplay</h4></strong></summary>
                 <p>Players complete tasks on various maps through portals that lead to nine different realms from the three main roots of the Yggdrasil tree. Each map has unique themes and challenges.</p>
 </details>
             
 <details open>
-                <summary><strong>Maps</strong></summary>
+                <summary><strong><h4>Maps</h4></strong></summary>
                 <ul>
                     <li><strong>Asgard:</strong> <em>The world where the gods reside.</em></li>
                     <li><strong>Midgard:</strong> <em>The world where humans live.</em></li>
@@ -96,7 +96,7 @@
 </details>
             
 <details open>
-                <summary><strong>Tasks</strong></summary>
+                <summary><strong><h4>Tasks</h4></strong></summary>
                 <ul>
                     <li><strong>Puzzle Solving:</strong> <em>Players must solve various puzzles within the game. These puzzles are designed with varying difficulties according to the theme of each map.</em></li>
                     <li><strong>Gathering Materials:</strong> <em>Players must collect certain materials appropriate to the theme of each map. The purpose and details of these gathering tasks vary according to the map.</em></li>
@@ -105,7 +105,7 @@
 </details>
             
 <details open>
-                <summary><strong>Time Limit</strong></summary>
+                <summary><strong><h4>Time Limit</h4></strong></summary>
                 <p><em>The entire game has a duration of 20 minutes. Players must complete all tasks within this time frame.</em></p>
 </details>
 </details>
