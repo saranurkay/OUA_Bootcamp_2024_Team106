@@ -65,7 +65,7 @@
 ### Product Description
 
 <details open>
-    <summary><h2>Genel Bilgiler</h2></summary>
+    <summary><h3>Genel Bilgiler</h3></summary>
     <p><strong>Oyun Adı:</strong> <em>Yggateway</em></p>
     <p><strong>Tür:</strong> <em>3D Aksiyon Macera</em></p>
     <p><strong>Çok Oyunculu:</strong> <em>Evet</em></p>
@@ -74,7 +74,7 @@
 </details>
 
 <details open>
-    <summary><h2>Oynanış</h2></summary>
+    <summary><h3>Oynanış</h3></summary>
     <details open>
         <summary><strong>Temel Oynanış</strong></summary>
         <p>Oyuncular, Yggdrasil ağacının üç ana kökünden dokuz farklı mekana açılan portallar aracılığıyla çeşitli haritalarda görevler tamamlarlar. Her harita, benzersiz temalara ve zorluklara sahiptir.</p>
@@ -108,22 +108,22 @@
 </details>
 
 <details open>
-    <summary><h2>Hikaye</h2></summary>
+    <summary><h3>Hikaye</h3></summary>
     <p><em>Yakın bir gelecekte, dünya yok olmanın eşiğine gelmiştir. İklim değişiklikleri, doğal afetler ve insanlık tarafından yapılan yıkımlar, gezegenimizi kurtarılamaz bir duruma getirmiştir. Ancak bir umut vardır. İnsanlık, tarih öncesi zamanlardan ileri teknoloji dünyalarına kadar uzanan esrarengiz Yggdrasil’in gizemini keşfetmiştir. Yggdrasil, tüm evreni birbirine bağlayan devasa bir dünya ağacıdır. Bu ağacın üç ana kökü, kendi benzersiz dünyasına açılan kapılarla doludur. Yggdrasil ağacının gizemli portalları ile dünyanın dört bir yanında zamanın ve mekanın sınırlarını zorlayarak tehlikeler ve gizemlerle dolu görevleri tamamlamak gezegenimizi kurtarabilecek cesur karakterlerin yolculuğunu mümkün kılmaktadır.</em></p>
 </details>
 
 <details open>
-    <summary><h2>Amaç</h2></summary>
+    <summary><h3>Amaç</h3></summary>
     <p><em>Oyunun amacı, Yggdrasil’in dokuz farklı mekanında bulunan görevleri tamamlayarak dünyayı yok olmaktan kurtarmaktır. Oyuncular, her bir haritada bulunan tehlikelerle dolu görevleri çözmek ve portal geçişleriyle farklı mekanlara geçiş yaparak zamanın ve mekanın sınırlarını aşmak zorundadırlar. Görevlerin tamamlanmasındaki temel hedef, 20 dakika içerisinde tüm görevleri bitirerek dünyayı kurtarmaktır. Bu zorlu yolculukta oyuncular, cesaretlerini, zekalarını ve becerilerini kullanarak insanlığın son umudu olacaklardır.</em></p>
 </details>
 
 <details open>
-    <summary><h2>Teknik Özellikler</h2></summary>
+    <summary><h3>Teknik Özellikler</h3></summary>
     <p>Unity oyun motoru kullanılarak C# programlama diliyle geliştirilmektedir.</p>
 </details>
 
 <details open>
-    <summary><h2>Hedef Kitle</h2></summary>
+    <summary><h3>Hedef Kitle</h3></summary>
     <p><strong>Yaş Grubu:</strong> <em>+7</em></p>
     <p><strong>İlgi Alanları:</strong> <em>Eylem-macera oyunları, mitoloji ve çok oyunculu deneyimlere ilgi duyan oyuncular.</em></p>
     <p><strong>Oynanış Tercihleri:</strong> <em>Mobil ve PC oyunları ile farklı ortamları keşfetmeyi, bulmaca çözmeyi, kaynak toplamayı ve savaşa katılmayı seven oyuncular için uygundur.</em></p>
