@@ -108,4 +108,21 @@
                 <summary><strong>Time Limit</strong></summary>
                 <p><em>The entire game has a duration of 20 minutes. Players must complete all tasks within this time frame.</em></p>
 </details>
+<details open>
+        <summary><h3>Story</h3></summary>
+        <p><em>In the near future, the world is on the brink of destruction. Climate changes, natural disasters, and man-made devastations have brought our planet to an irreparable state. However, there is hope. Humanity has discovered the mystery of the enigmatic Yggdrasil, which spans from prehistoric times to advanced technological worlds. Yggdrasil is a massive world tree that connects the entire universe. This tree's three main roots are filled with doors leading to their unique worlds. By using the mysterious portals of the Yggdrasil tree, courageous characters can embark on journeys full of dangers and mysteries, breaking the boundaries of time and space to complete tasks that could save our planet.</em></p>
+    </details>
+    <details open>
+        <summary><h3>Objective</h3></summary>
+        <p><em>The aim of the game is to save the world from destruction by completing tasks located in nine different realms of Yggdrasil. Players must solve perilous tasks in each map and traverse different realms through portals, breaking the boundaries of time and space. The primary goal is to complete all tasks within 20 minutes to save the world. In this challenging journey, players will use their courage, intelligence, and skills to become humanity's last hope.</em></p>
+    </details>
+    <details open>
+        <summary><h3>Technical Specifications</h3></summary>
+        <p>The game is being developed using the Unity game engine with the C# programming language.</p>
+    </details>
+    <details open>
+        <summary><h3>Note to Jury (Optional)</h3></summary>
+        <p><em>xxxxxxxxxxxxxxxx</em></p>
+    </details>
+</details>
 </details>
