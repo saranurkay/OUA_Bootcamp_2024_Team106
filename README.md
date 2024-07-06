@@ -137,14 +137,15 @@
     <br>
     <br>
     <a href="https://trello.com/b/cOckJ1er/bootcamp-u106-1st-sprint" target="_blank">Backlog Trello URL</a>
-    <img src="images/sprint1/trello1.png" alt="Trello Screenshots 1" style="width: 200px; height: 200px;">
     <br>
-    <img src="images/sprint1/trello2.png" alt="Trello Screenshots 2" style="width: 200px; height: 200px;">
+    <img src="images/sprint1/trello1.png" alt="Trello Screenshots 1" style="height: 600px; width: auto; ">
+    <br>
+    <img src="images/sprint1/trello2.png" alt="Trello Screenshots 2" style="height: 600px; width: auto; ">
     <br>
     <p><strong>WhatsApp & Discord Screenshots</strong><p>
-    <img src="images/sprint1/wp1.jpeg" alt="WhatsApp Screenshots 1" style="width: 200px; height: 200px;">
+    <img src="images/sprint1/wp1.jpeg" alt="WhatsApp Screenshots 1" style="height: 600px; width: auto; ">
     <br>
-    <img src="images/sprint1/wp2.jpeg" alt="WhatsApp Screenshots 2" style="width: 200px; height: 200px;">
+    <img src="images/sprint1/wp2.jpeg" alt="WhatsApp Screenshots 2" style="height: 600px; width: auto; ">
     <br>
     <! dc ekran görüntüsü gelecek. !>
     <br>
