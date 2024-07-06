@@ -135,16 +135,18 @@
     <br>
     <p><strong>Daily Scrum:</strong> <em>Through regular meetings held on Discord and WhatsApp, we effectively maintained team communication. These meetings, scheduled considering the different availabilities of team members, allowed the sharing of daily progress, discussion of encountered problems, and planning of the next steps. In each meeting, we assessed the progress made during the sprint and strengthened our coordination to achieve our goals.</em></p>
     <br>
-    <a href="#" target="_blank">Backlog Trello URL</a>
-    <img src="images/sprint1/trello1.png" alt="Trello Screenshots 1" style="max-width: 40%; height: auto;">
     <br>
-    <img src="images/sprint1/trello2.png" alt="Trello Screenshots 2" style="max-width: 40%; height: auto;">
+    <a href="https://trello.com/b/cOckJ1er/bootcamp-u106-1st-sprint" target="_blank">Backlog Trello URL</a>
+    <img src="images/sprint1/trello1.png" alt="Trello Screenshots 1" style="width: 200px; height: 200px;">
+    <br>
+    <img src="images/sprint1/trello2.png" alt="Trello Screenshots 2" style="width: 200px; height: 200px;">
     <br>
     <p><strong>WhatsApp & Discord Screenshots</strong><p>
-    <img src="images/sprint1/wp1.jpeg" alt="WhatsApp Screenshots 1" style="max-width: 40%; height: auto;">
+    <img src="images/sprint1/wp1.jpeg" alt="WhatsApp Screenshots 1" style="width: 200px; height: 200px;">
     <br>
-    <img src="images/sprint1/wp2.jpeg" alt="WhatsApp Screenshots 2" style="max-width: 40%; height: auto;">
-    <! wp ve dc ekran görüntüleri gelecek. !>
+    <img src="images/sprint1/wp2.jpeg" alt="WhatsApp Screenshots 2" style="width: 200px; height: 200px;">
+    <br>
+    <! dc ekran görüntüsü gelecek. !>
     <br>
     <p><strong>Product Status:</strong></p>
     <!Ürün durumu ekran görüntüleri gelecek>
