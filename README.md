@@ -148,7 +148,7 @@
     <br>
     <img src="images/sprint1/wp2.jpeg" alt="WhatsApp Screenshots 2" style="height: 600px; width: auto; ">
     <br>
-    <img src="images/sprint1/meetimg.jpeg" alt="Meeting Screenshots" style="height: 600px; width: auto; ">
+    <img src="images/sprint1/meetimg.png" alt="Meeting Screenshots" style="height: 600px; width: auto; ">
     <br>
     <p><strong>Product Status:</strong></p>
     <img src="images/sprint1/image1.jpeg" alt="Image 1" style="height: 600px; width: auto; ">
