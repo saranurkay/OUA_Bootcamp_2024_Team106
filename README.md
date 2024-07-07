@@ -151,6 +151,8 @@
     <img src="images/sprint1/meetimg.png" alt="Meeting Screenshots" style="height: 600px; width: auto; ">
     <br>
     <p><strong>Product Status:</strong></p>
+    <img src="images/sprint1/loading.gif" alt="Loading Bar Gif" style="height: 600px; width: auto; ">
+    <br>
     <img src="images/sprint1/image1.jpeg" alt="Image 1" style="height: 600px; width: auto; ">
     <br>
     <img src="images/sprint1/image2.jpeg" alt="Image 2" style="height: 600px; width: auto; ">
