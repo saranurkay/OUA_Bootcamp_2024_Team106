@@ -1,4 +1,4 @@
-<!Oyun Logosu Koyulacak!>
+<img src="images/sprint1/logo.jpeg" alt="Logo" style="height: 600px; width: auto; ">
 
 # Information About Team and Product
 
@@ -69,7 +69,7 @@
             <p><strong>Platform:</strong> <em>Mobile & PC</em></p>
             <p><strong>Game Development Team:</strong> <em>Unity Team 106, created by Google OUA for the 2023-2024 Bootcamp.</em></p>
             <br>
-            <p><strong>Story:</strong> <em>In the near future, the world is on the brink of destruction. Climate changes, natural disasters, and man-made devastations have       brought our planet to an irreparable state. However, there is hope. Humanity has discovered the mystery of the enigmatic Yggdrasil, which spans from prehistoric times to advanced technological worlds. Yggdrasil is a massive world tree that connects the entire universe. This tree's three main roots are filled with doors leading to their unique worlds. By using the mysterious portals of the Yggdrasil tree, courageous characters can embark on journeys full of dangers and mysteries, breaking the boundaries of time and space to complete tasks that could save our planet.</em></p>
+            <p><strong>Story:</strong> <em>In the near future, the world is on the brink of destruction. Climate changes, natural disasters, and man-made devastations have brought our planet to an irreparable state. However, there is hope. Humanity has discovered the mystery of the enigmatic Yggdrasil, which spans from prehistoric times to advanced technological worlds. Yggdrasil is a massive world tree that connects the entire universe. This tree's three main roots are filled with doors leading to their unique worlds. By using the mysterious portals of the Yggdrasil tree, courageous characters can embark on journeys full of dangers and mysteries, breaking the boundaries of time and space to complete tasks that could save our planet.</em></p>
             <br>
             <p><strong>Objective:</strong> <em>The aim of the game is to save the world from destruction by completing tasks located in nine different realms of Yggdrasil. Players must solve perilous tasks in each map and traverse different realms through portals, breaking the boundaries of time and space. The primary goal is to complete all tasks within 20 minutes to save the world. In this challenging journey, players will use their courage, intelligence, and skills to become humanity's last hope.</em></p>
 </details>
@@ -141,12 +141,14 @@
     <br>
     <img src="images/sprint1/trello2.png" alt="Trello Screenshots 2" style="height: 600px; width: auto; ">
     <br>
+    <img src="images/sprint1/trello3.png" alt="Trello Screenshots 2" style="height: 600px; width: auto; ">
+    <br>
     <p><strong>WhatsApp & Discord Screenshots</strong></p>
     <img src="images/sprint1/wp1.jpeg" alt="WhatsApp Screenshots 1" style="height: 600px; width: auto; ">
     <br>
     <img src="images/sprint1/wp2.jpeg" alt="WhatsApp Screenshots 2" style="height: 600px; width: auto; ">
     <br>
-    <! dc ekran görüntüsü gelecek. !>
+    <img src="images/sprint1/meetimg.jpeg" alt="Meeting Screenshots" style="height: 600px; width: auto; ">
     <br>
     <p><strong>Product Status:</strong></p>
     <img src="images/sprint1/image1.jpeg" alt="Image 1" style="height: 600px; width: auto; ">
