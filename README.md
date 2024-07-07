@@ -1,4 +1,4 @@
-<img src="images/sprint1/logo.jpeg" alt="Logo" style="height: 600px; width: auto; ">
+<img src="images/sprint1/logo.jpeg" alt="Logo" style="height: 200px; width: 600px; ">
 
 # Information About Team and Product
 
