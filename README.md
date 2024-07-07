@@ -149,8 +149,11 @@
     <! dc ekran görüntüsü gelecek. !>
     <br>
     <p><strong>Product Status:</strong></p>
-    <!Ürün durumu ekran görüntüleri gelecek>
-    <br> 
+    <img src="images/sprint1/image1.jpeg" alt="Image 1" style="height: 600px; width: auto; ">
+    <br>
+    <img src="images/sprint1/image2.jpeg" alt="Image 2" style="height: 600px; width: auto; ">
+    <br>
+    <img src="images/sprint1/image3.jpeg" alt="Image 3" style="height: 600px; width: auto; ">
     <p><strong>Sprint Review:</strong></p>
     <p><em>In this sprint, we laid a solid foundation for the Yggateway game. We completed the backlog points of 99 as planned. We started the 3D design of the first map and determined the name and story of the game. Additionally, we created the basic logo design but plan to update it in future sprints. We strengthened team communication by holding regular meetings on Discord and WhatsApp. Through daily Scrum meetings, we tracked our progress and came together to solve issues. For future sprints, we decided to have the design and development teams progress concurrently. Believing that design will play a critical role in the development of the game, we distributed tasks among the design team. By evaluating our successes and forward plans during this process, we identified improvements and strategies to achieve our goals in the next stages of the game.</em></p>
     <p><strong>Sprint Review Participants:</strong> <em>Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN, Oğuzhan YELGEN.</em></p>
