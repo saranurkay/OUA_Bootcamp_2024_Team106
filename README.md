@@ -219,3 +219,37 @@
     <img src="images/sprint2/image5.jpeg" alt="Image 2" style="height: 600px; width: auto; ">
     <br>
     <img src="images/sprint2/image6.jpeg" alt="Image 3" style="height: 600px; width: auto; ">
+<p><strong>Sprint Review:</strong></p>
+<p><em>In this sprint, we did not achieve some of our goals. We aimed to complete 58 backlog points in our sprint plans, but due to team members' personal lives, they had difficulty maintaining active communication with the team and meeting deadlines. Based on our sprint evaluation, we decided to have detailed discussions with members individually to determine whether they will continue with the team collaboration.</em></p>
+    <p><strong>Sprint Review Participants:</strong> <em>Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN, Oğuzhan YELGEN.</em></p>
+    <p><strong>Sprint Retrospective:</strong></p>
+    <ul>
+    <li><p>What Went Well?</p></li>
+    <p><em>
+    - The details of our first map were designed to be aesthetically pleasing.
+    </em></p>
+    <p><em>
+    - We made clear decisions on the name and story of the game.
+    </em></p>
+    <p><em>
+    - We started writing the basic draft code.
+    </em></p>
+    <li><p>What Can Be Improved?</p></li>
+    <p><em>
+    - We need to find solutions that will improve and speed up the design and coding processes.
+    </em></p>
+    <p><em>
+    - We can have one-on-one discussions with team members to gather information about their tasks related to the process and ask whether they will continue.
+    </em></p>
+    <li><p>Action Plan</p></li>
+    <p><em>
+    - By reviewing the resources and time required to complete the first map design, we aim to start it in the third sprint.
+    </em></p>
+    <p><em>
+    - We aim to finish writing the initial draft code and make the game code more functional.
+    </em></p>
+      <p><em>
+    - By having one-on-one discussions with team members, we aim to reassign tasks and complete any unfinished tasks if they decide not to continue with the process.
+    </em></p>
+    </ul>
+</details>
