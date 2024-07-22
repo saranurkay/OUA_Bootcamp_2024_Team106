@@ -196,3 +196,26 @@
 </details>
 <details open>
   <summary><h2>Sprint 2</h2></summary>
+  <p><strong>Estimated Completion Points:</strong> <em>The points estimated to be completed within the sprint are set at 58.</em></p>
+    <br>
+  <p><strong>Point Completion Logic:</strong> <em>We based our sprint point estimation on the Fibonacci sequence. This method helped us to more accurately evaluate the complexity and time consumption of the tasks.</em></p>
+  <br>
+  <p><strong>Daily Scrum:</strong> <em>We effectively maintained team communication through meetings held on Discord and WhatsApp. However, we faced difficulties in communicating with some team members in this setup.</em></p>
+    <br>
+    <p><a href="https://trello.com/b/kxFTaJRi/bootcamp-u106-2nd-sprint" target="_blank">Backlog Trello URL</a></p>
+    <br>
+    <img src="images/sprint2/trello1.png" alt="Trello Screenshots 1" style="height: 600px; width: auto; ">
+    <br>
+    <p><strong>WhatsApp Screenshots</strong></p>
+    <img src="images/sprint2/image1.jpeg" alt="WhatsApp Screenshots 1" style="height: 600px; width: auto; ">
+    <br>
+    <img src="images/sprint2/image2.jpeg" alt="WhatsApp Screenshots 2" style="height: 600px; width: auto; ">
+    <br>
+    <img src="images/sprint2/image3.png" alt="WhatsApp Screenshots 3" style="height: 600px; width: auto; ">
+    <br>
+    <p><strong>Product Status:</strong></p>
+    <img src="images/sprint2/image4.jpeg" alt="Image 1" style="height: 600px; width: auto; ">
+    <br>
+    <img src="images/sprint2/image5.jpeg" alt="Image 2" style="height: 600px; width: auto; ">
+    <br>
+    <img src="images/sprint2/image6.jpeg" alt="Image 3" style="height: 600px; width: auto; ">
