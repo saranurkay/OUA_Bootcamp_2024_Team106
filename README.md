@@ -211,7 +211,7 @@
     <br>
     <img src="images/sprint2/image2.jpeg" alt="WhatsApp Screenshots 2" style="height: 600px; width: auto; ">
     <br>
-    <img src="images/sprint2/image3.png" alt="WhatsApp Screenshots 3" style="height: 600px; width: auto; ">
+    <img src="images/sprint2/image3.jpeg" alt="WhatsApp Screenshots 3" style="height: 600px; width: auto; ">
     <br>
     <p><strong>Product Status:</strong></p>
     <img src="images/sprint2/image4.jpeg" alt="Image 1" style="height: 600px; width: auto; ">
