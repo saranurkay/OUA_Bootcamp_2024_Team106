@@ -192,5 +192,7 @@
     <p><em>
     - We will establish a more rigorous planning process between the design team and the development team to accelerate the coding process.
     </em></p>
-  <details open>
-    <summary><h2>Sprint 2</h2></summary>
+    </ul>
+</details>
+<details open>
+  <summary><h2>Sprint 2</h2></summary>
