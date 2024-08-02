@@ -262,7 +262,7 @@
     <br>
     <img src="images/sprint3/gorsel2.jpeg" alt="WhatsApp Screenshots 2" style="height: 600px; width: auto; ">
     <br>
-    <img src="images/sprint3/meet.jpeg" alt="Meet Screenshots" style="height: 600px; width: auto; ">
+    <img src="images/sprint3/meet.png" alt="Meet Screenshots" style="height: 600px; width: auto; ">
     <br>    
 <p><strong>Sprint Review:</strong></p>
 <p><em>In this sprint, we did not achieve some of our goals. Some of our team members did not communicate with the team. They did not complete the tasks they promised to do and kept postponing by saying they were working on it. Due to all these reasons, we couldn't finish our product and are unable to deliver it. In this script, we removed the name of the person who did not join the team and caused us to not deliver our product.</em></p>
