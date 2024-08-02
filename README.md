@@ -57,7 +57,7 @@
             <summary><h3>General Information</h3></summary>
             <p><strong>Game Name:</strong> <em>Yggateway</em></p>
             <p><strong>Genre:</strong> <em>3D Action Adventure</em></p>
-            <p><strong>Multiplayer:</strong> <em>Yes</em></p>
+            <p><strong>Multiplayer:</strong> <em>No</em></p>
             <p><strong>Platform:</strong> <em>Mobile & PC</em></p>
             <p><strong>Game Development Team:</strong> <em>Unity Team 106, created by Google OUA for the 2023-2024 Bootcamp.</em></p>
             <br>
