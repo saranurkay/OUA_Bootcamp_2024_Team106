@@ -22,14 +22,6 @@
       </td>
     </tr>
     <tr>
-      <td><img src="images/profile/oguzhanyelgen.jpeg" width="70" height="70" /></td>
-      <td>Oğuzhan YELGEN</td>
-      <td>Product Owner - Designer</td>
-      <td>
-        <a href="https://www.linkedin.com/in/oğuzhan-yelgen-b17ba4104/" target="_blank" ><img src="images/communication/linkedin.png" width="40" height="40" /></a>
-      </td>
-    </tr>
-    <tr>
       <td><img src="images/profile/sedanazdolu.jpeg" width="70" height="70" /></td>
       <td>Seda Naz DOLU</td>
       <td>Developer</td>
@@ -158,7 +150,7 @@
     <img src="images/sprint1/image3.jpeg" alt="Image 3" style="height: 600px; width: auto; ">
     <p><strong>Sprint Review:</strong></p>
     <p><em>In this sprint, we laid a solid foundation for the Yggateway game. We completed the backlog points of 99 as planned. We started the 3D design of the first map and determined the name and story of the game. Additionally, we created the basic logo design but plan to update it in future sprints. We strengthened team communication by holding regular meetings on Discord and WhatsApp. Through daily Scrum meetings, we tracked our progress and came together to solve issues. For future sprints, we decided to have the design and development teams progress concurrently. Believing that design will play a critical role in the development of the game, we distributed tasks among the design team. By evaluating our successes and forward plans during this process, we identified improvements and strategies to achieve our goals in the next stages of the game.</em></p>
-    <p><strong>Sprint Review Participants:</strong> <em>Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN, Oğuzhan YELGEN.</em></p>
+    <p><strong>Sprint Review Participants:</strong> <em>Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN</em></p>
     <p><strong>Sprint Retrospective:</strong></p>
     <ul>
     <li><p>What Went Well?</p></li>
@@ -221,7 +213,7 @@
     <img src="images/sprint2/image6.jpeg" alt="Image 3" style="height: 600px; width: auto; ">
 <p><strong>Sprint Review:</strong></p>
 <p><em>In this sprint, we did not achieve some of our goals. We aimed to complete 58 backlog points in our sprint plans, but due to team members' personal lives, they had difficulty maintaining active communication with the team and meeting deadlines. Based on our sprint evaluation, we decided to have detailed discussions with members individually to determine whether they will continue with the team collaboration.</em></p>
-    <p><strong>Sprint Review Participants:</strong> <em>Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN, Oğuzhan YELGEN.</em></p>
+    <p><strong>Sprint Review Participants:</strong> <em>Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN</em></p>
     <p><strong>Sprint Retrospective:</strong></p>
     <ul>
     <li><p>What Went Well?</p></li>
@@ -253,3 +245,41 @@
     </em></p>
     </ul>
 </details>
+<details open>
+  <summary><h2>Sprint 3</h2></summary>
+  <p><strong>Estimated Completion Points:</strong> <em>The points estimated to be completed within the sprint are set at 68.</em></p>
+    <br>
+  <p><strong>Point Completion Logic:</strong> <em>We based our sprint point estimation on the Fibonacci sequence. This method helped us to more accurately evaluate the complexity and time consumption of the tasks.</em></p>
+  <br>
+  <p><strong>Daily Scrum:</strong> <em>We effectively maintained team communication through meetings held on Discord and WhatsApp. However, we faced difficulties in communicating with some team members in this setup.</em></p>
+    <br>
+    <p><a href="https://trello.com/b/IA5nOY9G/bootcamp-u106-3rd-sprint" target="_blank">Backlog Trello URL</a></p>
+    <br>
+    <img src="images/sprint3/trello.png" alt="Trello Screenshots 1" style="height: 600px; width: auto; ">
+    <br>
+    <p><strong>WhatsApp § Meeting Screenshots</strong></p>
+    <img src="images/sprint3/gorsel1.jpeg" alt="WhatsApp Screenshots 1" style="height: 600px; width: auto; ">
+    <br>
+    <img src="images/sprint3/gorsel2.jpeg" alt="WhatsApp Screenshots 2" style="height: 600px; width: auto; ">
+    <br>
+    <img src="images/sprint3/meet.jpeg" alt="Meet Screenshots" style="height: 600px; width: auto; ">
+    <br>    
+<p><strong>Sprint Review:</strong></p>
+<p><em>In this sprint, we did not achieve some of our goals. Some of our team members did not communicate with the team. They did not complete the tasks they promised to do and kept postponing by saying they were working on it. Due to all these reasons, we couldn't finish our product and are unable to deliver it. In this script, we removed the name of the person who did not join the team and caused us to not deliver our product.</em></p>
+    <p><strong>Sprint Review Participants:</strong> <em>Sara Nur KAY, Rabia Yaren BALIKÇIOĞLU, Seda Naz DOLU, Muhammet Talha GÜNCAN</em></p>
+    <p><strong>Sprint Retrospective:</strong></p>
+    <ul>
+    <li><p>What Went Well?</p></li>
+    <p><em>
+    - The details of our first map were designed to be aesthetically pleasing.
+    </em></p>
+    <p><em>
+    - We completed certain maps and the code writing process..
+    </em></p>
+    <li><p>NOTE:</p></li>
+    <p><em>
+    - We spoke many times with our team member who did not actively participate. They occasionally attended meetings and mentioned that they were working on tasks and would complete them, but in the end, they did nothing. This situation prevented the product from being completed on time.
+    </em></p>
+    </ul>
+</details>
+
